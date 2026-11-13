@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" role="img" aria-labelledby="title desc">
+  <title id="title">Angel John B. Escara</title>
+  <desc id="desc">A dark blue and teal banner reading Data, code, useful decisions, with a simple data chart illustration.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#111b2c"/>
+      <stop offset="1" stop-color="#172f40"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" x2="1" y1="0" y2="0">
+      <stop offset="0" stop-color="#39d3c5"/>
+      <stop offset="1" stop-color="#a5f0c9"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="280" rx="20" fill="url(#background)"/>
+  <path d="M0 228H1200 M0 175H1200 M0 122H1200 M0 69H1200" stroke="#fff" opacity=".045"/>
+  <path d="M660 0V280 M768 0V280 M876 0V280 M984 0V280 M1092 0V280" stroke="#fff" opacity=".045"/>
+  <rect x="62" y="54" width="106" height="6" rx="3" fill="#39d3c5"/>
+  <text x="62" y="118" fill="#fff" font-family="Segoe UI,Arial,sans-serif" font-size="43" font-weight="700">Angel John B. Escara</text>
+  <text x="64" y="161" fill="#9db4c9" font-family="Segoe UI,Arial,sans-serif" font-size="21">DATA  /  CODE  /  USEFUL DECISIONS</text>
+  <text x="64" y="220" fill="#b9cbd7" font-family="Segoe UI,Arial,sans-serif" font-size="16">Computer Science · Data Science · Manila</text>
+  <g opacity=".8">
+    <rect x="774" y="174" width="31" height="54" rx="4" fill="#246b74"/>
+    <rect x="823" y="145" width="31" height="83" rx="4" fill="#2d8790"/>
+    <rect x="872" y="164" width="31" height="64" rx="4" fill="#246b74"/>
+    <rect x="921" y="114" width="31" height="114" rx="4" fill="#2d8790"/>
+    <rect x="970" y="127" width="31" height="101" rx="4" fill="#246b74"/>
+    <rect x="1019" y="77" width="31" height="151" rx="4" fill="#2d8790"/>
+  </g>
+  <path d="M789 155L838 132L887 141L936 99L985 110L1034 62" fill="none" stroke="url(#line)" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <g fill="#b8ffe0">
+    <circle cx="789" cy="155" r="5"/><circle cx="838" cy="132" r="5"/><circle cx="887" cy="141" r="5"/>
+    <circle cx="936" cy="99" r="5"/><circle cx="985" cy="110" r="5"/><circle cx="1034" cy="62" r="5"/>
+  </g>
+</svg>
