@@ -1,6 +1,6 @@
 <div align="center">
 
-![Angel John B. Escara — data, code, and useful decisions](assets/profile-banner.svg)
+# Angel John B. Escara
 
 ### Computer Science student · Data Science specialization · Manila, Philippines
 
