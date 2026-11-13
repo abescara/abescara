@@ -2,21 +2,15 @@
 
 # Angel John B. Escara
 
-### Computer Science student · Data Science specialization · Manila, Philippines
+### Data analysis · Machine learning · Software projects
 
-I build data projects that start with a real question, show the work, and make the result understandable.
+Selected projects built while studying Computer Science with a Data Science specialization at FEU Institute of Technology.
 
-[Projects](#selected-work) · [What I use](#what-i-use) · [Connect](#connect)
+[Projects](#selected-work) · [Approach](#project-approach) · [Links](#links)
 
 </div>
 
 ---
-
-### About me
-
-I'm **Angel John B. Escara**, a BS Computer Science student at **FEU Institute of Technology**, specializing in Data Science (expected graduation: July 2028). I'm a **DOST Merit Scholar** and **FEU Tech President's Scholar**.
-
-I'm looking for a **data analytics or data science internship** where I can work with SQL, Python, data quality, analysis, and clear communication. My recent projects explore customer return behavior and e-commerce sales reporting.
 
 ### Selected work
 
@@ -26,13 +20,13 @@ I'm looking for a **data analytics or data science internship** where I can work
 | **[E-commerce Sales Performance Analysis](https://github.com/abescara/E-commerce-Sales-and-Customer-Analytics-Dashboard)** | How do monthly sales and category contributions change? Validates a saved BigQuery export, analyzes it in Python, and presents an interactive Streamlit dashboard. |
 | **[WalkIt](https://github.com/abescara/WalkIt)** | An offline Kotlin Android prototype for pedestrian hazard reporting and route awareness. |
 
-### What I use
+### Project approach
 
-`Python` · `SQL` · `pandas` · `scikit-learn` · `Streamlit` · `Matplotlib` · `Git` · `GitHub`
+Each repository includes the problem, data source, method, and limits of its results. The work spans `Python`, `SQL`, `pandas`, `scikit-learn`, `Streamlit`, `Matplotlib`, and `Kotlin`.
 
-I care about documenting data assumptions, checking for leakage, comparing against a simple baseline, and explaining what a result **does and does not** show.
+For the data projects, I document assumptions, check data quality and leakage, compare with a simple baseline where modeling is involved, and explain what the results do and do not show.
 
-### Connect
+### Links
 
 [LinkedIn](https://www.linkedin.com/in/angel-john-escara-6baa87380/) · [Explore my repositories](https://github.com/abescara?tab=repositories)
 
